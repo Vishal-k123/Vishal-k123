@@ -45,7 +45,8 @@ I'm an aspiring full-stack developer passionate about creating innovative softwa
 - 📧 Email: vishalk57083@gmail.com  
 - 📱 Phone: +91 8581355833  
 - 🔗 LinkedIn: [linkedin.com/in/vishal-kumar-yadav-7984a5264](https://www.linkedin.com/in/vishal-kumar-yadav-7984a5264)  
-- 🔗 HackerRank: [Vishal Kumar Yadav - vishalk57083](https://www.hackerrank.com/vishalk57083)  
+- 🔗 HackerRank: [Vishal Kumar Yadav - vishalk57083](https://www.hackerrank.com/vishalk57083)
+- 🔗 LeetCode: [Vishal Kumar Yadav - vishalk57083](https://leetcode.com/u/vishal57083/)
 
 ---
 
